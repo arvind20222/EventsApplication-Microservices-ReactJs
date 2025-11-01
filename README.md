@@ -127,6 +127,9 @@ Runs on **http://localhost:3000**
 
 ---
 
+## 🧾 Live Link:
+ [Live Application](https://events-application-front-end.vercel.app/) 
+
 ## 🔮 Future Enhancements
 
 - JWT-based Authentication  
@@ -136,6 +139,6 @@ Runs on **http://localhost:3000**
 ## 👨‍💻 Author
 
 **Aravind Reddy**  
-🔗 LinkedIn: [linkedin.com/in/aravindreddy316](https://www.linkedin.com/in/aravindreddy316)  
-💻 GitHub: [github.com/aravindreddy316](https://github.com/arvind20222)
+🔗 LinkedIn: [linkedin.com/](https://www.linkedin.com/in/aravindreddy316)  
+💻 GitHub: [github.com/](https://github.com/arvind20222)
 
